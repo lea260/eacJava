@@ -8,9 +8,9 @@ import dto.MonedaDto;
 public class MonedaDao {
 
 	public static int idMoneda = 105;
-	
-	public MonedaDao(){
-		
+
+	public MonedaDao() {
+
 	}
 
 	public ArrayList<MonedaDto> listar() {
